@@ -1,23 +1,18 @@
-body {
-    margin: 0;
+body{
     font-family: Arial, sans-serif;
-    background: #fff5f8;
+    margin:0;
+    padding:0;
 }
 
-.hero {
-    text-align: center;
-    padding: 60px 20px;
-    background-color: #ffc0cb;
+.hero{
+    text-align:center;
+    padding:50px;
+    background:#ffc0cb;
 }
 
-button {
-    background-color: #ff69b4;
-    color: white;
-    border: none;
-    padding: 12px 24px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #ff1493;
+button{
+    background:#ff69b4;
+    color:white;
+    padding:10px 20px;
+    border:none;
 }
